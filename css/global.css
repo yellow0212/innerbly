@@ -32,9 +32,9 @@ footer > ol > li > h3 {font-size: 12px; font-weight: 300; margin-bottom: 20px;}
 footer > ol > li > strong {display: block; font-size: 28px; font-weight: 500; margin-bottom: 20px;}
 footer > ol > li > p {font-size: 14px; font-weight: 400; color: #999; margin-bottom: 10px;} 
 footer > ol > li a {text-decoration: none;}
-footer > ol > li:nth-of-type(1) > a {display: inline-block; text-align: center; width: 140px; padding: 10px 20px; margin-top: 50px;}
-footer > ol > li:nth-of-type(1) > a:nth-of-type(1) {color: #fff; background-color: #e84388; }
-footer > ol > li:nth-of-type(1) > a:nth-of-type(2) {color: #999; border: 1px solid #999; background-color: transparent;}
+footer > ol > li:nth-of-type(1) > a {display: inline-block; text-align: center; width: 180px; padding: 10px; margin-top: 50px;}
+footer > ol > li:nth-of-type(1) > a:nth-of-type(1) {color: #fff; background-color: #e84388; box-sizing: border-box;}
+footer > ol > li:nth-of-type(1) > a:nth-of-type(2) {color: #999; border: 1px solid #999; background-color: transparent; box-sizing: border-box;}
 footer > ol > li > ul > li a {color: #999; font-size: 14px;line-height: 20px;} 
 footer > div {font-size: 12px; color: #999;}
 footer > div span {color: #555; font-weight: 500;}
